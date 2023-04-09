@@ -1,0 +1,9 @@
+google.com
+facebook.com
+amazon.com
+netflix.com
+twitter.com
+github.com
+stackoverflow.com
+example.com
+nonexistentdomain12345.com
